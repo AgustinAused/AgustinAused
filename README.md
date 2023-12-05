@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 👋 Hi, I’m Agustin Aused, a software development enthusiast currently interning at HSBC! 💻<br>👀 I’m passionate about the world of software development.<br>🌱 Currently diving deep into Java programming and non-relational database concepts.<br>💞️ I’m eager to collaborate on exciting software development projects with talented individuals from around the globe! 🚀<br>🤝 Let's team up and turn ideas into exceptional code together. Connect with me on LinkedIn to explore potential collaborations! 🌐
 
@@ -16,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AgustinAused&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
