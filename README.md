@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Agustin Aused, a software development enthusiast currently interning at HSBC! 💻<br>👀 I’m passionate about the world of software development.<br>🌱 Currently diving deep into Java programming and non-relational database concepts.<br>💞️ I’m eager to collaborate on exciting software development projects with talented individuals from around the globe! 🚀<br>🤝 Let's team up and turn ideas into exceptional code together. Connect with me on [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/agustinaused)  to explore potential collaborations! 🌐
+👋 Hi, I’m Agustin Aused, a software development enthusiast currently interning at HSBC! 💻<br>👀 I’m passionate about the world of software development.<br>🌱 Currently diving deep into Java programming and non-relational database concepts.<br>💞️ I’m eager to collaborate on exciting software development projects with talented individuals from around the globe! 🚀<br>🤝 Let's team up and turn ideas into exceptional code together. Connect with me on [LinkedIn](https://linkedin.com/in/agustinaused)  to explore potential collaborations! 🌐
 
 
 ## 🌐 Socials:
